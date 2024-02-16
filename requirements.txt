@@ -1,0 +1,4 @@
+python
+opencv-python
+numpy
+imutils
